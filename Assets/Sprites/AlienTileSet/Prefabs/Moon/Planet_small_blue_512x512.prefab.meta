@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d1b95363c1261614c92bba7cade2fa2e
+timeCreated: 1522671640
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116827
+  packageName: Alien Tile Set
+  packageVersion: 1.0
+  assetPath: Assets/AlienTileSet/Prefabs/Moon/Planet_small_blue_512x512.prefab
+  uploadId: 247118

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 14b055a84616f354198e71c13bf39d2c
+timeCreated: 1522663427
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116827
+  packageName: Alien Tile Set
+  packageVersion: 1.0
+  assetPath: Assets/AlienTileSet/TilePalette/BackgroundTiles/Bottom_Left_Dark.asset
+  uploadId: 247118

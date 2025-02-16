@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4f964195552a514da1efab75f4507e8
+timeCreated: 1434542348
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116827
+  packageName: Alien Tile Set
+  packageVersion: 1.0
+  assetPath: Assets/AlienTileSet/Sprites/Particles/Materials/Sun_Shafts.mat
+  uploadId: 247118

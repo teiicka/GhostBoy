@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1a05c14950b3ecf42a1fa0d412443081
+timeCreated: 1522671663
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116827
+  packageName: Alien Tile Set
+  packageVersion: 1.0
+  assetPath: Assets/AlienTileSet/Prefabs/Mountains/BG_Mountains_1920x1080.prefab
+  uploadId: 247118

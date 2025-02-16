@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 624b98c6e3625554085643f81b45c91f
+timeCreated: 1430086878
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116827
+  packageName: Alien Tile Set
+  packageVersion: 1.0
+  assetPath: Assets/AlienTileSet/Sprites/Particles/Materials/ember_1.mat
+  uploadId: 247118

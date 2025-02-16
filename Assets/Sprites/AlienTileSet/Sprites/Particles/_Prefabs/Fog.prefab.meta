@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6c2bbcf65799b4341bf122d70b5bcf45
+timeCreated: 1434549932
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116827
+  packageName: Alien Tile Set
+  packageVersion: 1.0
+  assetPath: Assets/AlienTileSet/Sprites/Particles/_Prefabs/Fog.prefab
+  uploadId: 247118

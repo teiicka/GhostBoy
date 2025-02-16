@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f37b2bfdbc990494b82423005025d645
+timeCreated: 1522662880
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116827
+  packageName: Alien Tile Set
+  packageVersion: 1.0
+  assetPath: Assets/AlienTileSet/TilePalette/Tiles/Middle_Right.asset
+  uploadId: 247118

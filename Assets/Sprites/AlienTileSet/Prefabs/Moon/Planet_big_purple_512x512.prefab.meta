@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8952ef33a6b31ee4cafac7eb203e4694
+timeCreated: 1522671633
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116827
+  packageName: Alien Tile Set
+  packageVersion: 1.0
+  assetPath: Assets/AlienTileSet/Prefabs/Moon/Planet_big_purple_512x512.prefab
+  uploadId: 247118

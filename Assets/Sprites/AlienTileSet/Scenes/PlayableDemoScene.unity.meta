@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d39c64d3e05efd14f9c44add4eaa98ea
+timeCreated: 1523187762
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116827
+  packageName: Alien Tile Set
+  packageVersion: 1.0
+  assetPath: Assets/AlienTileSet/Scenes/PlayableDemoScene.unity
+  uploadId: 247118

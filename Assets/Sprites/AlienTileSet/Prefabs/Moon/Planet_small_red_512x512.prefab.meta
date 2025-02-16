@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2547c42a74fd88844bbddd4be481c30c
+timeCreated: 1522671643
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116827
+  packageName: Alien Tile Set
+  packageVersion: 1.0
+  assetPath: Assets/AlienTileSet/Prefabs/Moon/Planet_small_red_512x512.prefab
+  uploadId: 247118

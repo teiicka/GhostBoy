@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 27ea88f8e36ca334bbe6a35c638d0bd2
+timeCreated: 1522662987
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116827
+  packageName: Alien Tile Set
+  packageVersion: 1.0
+  assetPath: Assets/AlienTileSet/TilePalette/Tiles/Right_Corner_Up.asset
+  uploadId: 247118

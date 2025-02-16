@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 77782d887a54c344d971c5e0c8d506ff
+timeCreated: 1522671727
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116827
+  packageName: Alien Tile Set
+  packageVersion: 1.0
+  assetPath: Assets/AlienTileSet/Prefabs/Plants/Plants FG/BG_Plants_Parallax_1920x1080.prefab
+  uploadId: 247118

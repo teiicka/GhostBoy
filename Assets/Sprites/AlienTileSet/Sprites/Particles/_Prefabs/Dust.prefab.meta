@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d218001a1e147542bc5a9058259e49f
+timeCreated: 1431357025
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116827
+  packageName: Alien Tile Set
+  packageVersion: 1.0
+  assetPath: Assets/AlienTileSet/Sprites/Particles/_Prefabs/Dust.prefab
+  uploadId: 247118

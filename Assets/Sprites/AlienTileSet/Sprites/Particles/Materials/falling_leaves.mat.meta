@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b9609695bff840240856888828712695
+timeCreated: 1430141190
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116827
+  packageName: Alien Tile Set
+  packageVersion: 1.0
+  assetPath: Assets/AlienTileSet/Sprites/Particles/Materials/falling_leaves.mat
+  uploadId: 247118

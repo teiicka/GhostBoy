@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ba9bdfba175c60047b20b1dd79f48fc9
+timeCreated: 1522671478
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116827
+  packageName: Alien Tile Set
+  packageVersion: 1.0
+  assetPath: Assets/AlienTileSet/Prefabs/Camera/Perspective Camera.prefab
+  uploadId: 247118
