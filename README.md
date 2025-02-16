@@ -30,8 +30,6 @@ Death screen where u can restart or close the game
 
 # Player Movement/Jumping Method
 
-horizontalInput = Input.GetAxis("Horizontal");
-
 
         //Flip player when moving left/right
         if(horizontalInput > 0.01f){
@@ -69,4 +67,7 @@ horizontalInput = Input.GetAxis("Horizontal");
             }
         }
 
+# Objects
+
+The Objects are from the Unity Asset Store
 
