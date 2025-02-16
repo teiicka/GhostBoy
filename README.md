@@ -1,2 +1,2 @@
 # GhostBoy
-Platform unity game
+Unity platform 2D game
